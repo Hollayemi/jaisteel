@@ -109,12 +109,12 @@ const Header = ({ isQuoteModalOpen, page, setIsQuoteModalOpen }: {
                                 <div className="w-12 h-12 flex items-center justify-center rounded">
                                     <img
                                         src="/images/logoWhite.PNG"
-                                        alt="JAI Steel Works Logo"
+                                        alt="JAI Steel Consultation Logo"
                                         className="w-10 h-10 object-contain"
                                     />
                                 </div>
                                 <div className="leading-tight">
-                                    <div className="text-base font-bold font-heading">JAI STEEL WORKS</div>
+                                    <div className="text-base font-bold font-heading">JAI STEEL CONSTRUCTION</div>
                                     <div className="text-xs text-primary-yellow">& MANAGEMENT LTD</div>
                                 </div>
                             </a>

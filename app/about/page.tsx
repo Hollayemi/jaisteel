@@ -1,7 +1,6 @@
 'use client'
 
 import { useState } from 'react'
-import RequestQuoteModal from '../components/RequestQuoteModal'
 import Wrapper from '../components/wrapper'
 
 export default function AboutPage() {
@@ -45,10 +44,10 @@ export default function AboutPage() {
               WHO WE ARE
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-primary-blue mb-6 font-heading">
-              JAI STEEL WORKS & MANAGEMENT LTD
+              JAI STEEL CONSTRUCTION & MANAGEMENT LTD
             </h2>
             <p className="text-gray-600 mb-4 leading-relaxed">
-              JAI Steel Works & Management Ltd. is a forward-thinking engineering, steel-construction, and project-management company based in Abuja, Nigeria. We specialize in structural steel works, metal fabrication, welding services, consultancy, and turnkey project execution for private, commercial and industrial clients.
+              JAI Steel Consultation & Management Ltd. is a forward-thinking engineering, steel-construction, and project-management company based in Abuja, Nigeria. We specialize in structural steel works, metal fabrication, welding services, consultancy, and turnkey project execution for private, commercial and industrial clients.
             </p>
             <p className="text-gray-600 mb-6 leading-relaxed">
               With over 7 years of delivering excellence, we have established ourselves as a trusted partner in Nigeria's construction and industrial development sectors. Our team combines industry-standard technology, skilled manpower, and best-practice processes to deliver innovative and cost-effective solutions.
@@ -208,7 +207,7 @@ export default function AboutPage() {
       <section className="bg-primary-blue text-white py-20 mb-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold mb-4 font-heading">WHY CHOOSE JAI STEEL WORKS?</h2>
+            <h2 className="text-4xl font-bold mb-4 font-heading">WHY CHOOSE JAI STEEL CONSTRUCTION?</h2>
             <div className="w-24 h-1 bg-primary-yellow mx-auto"></div>
           </div>
 
@@ -261,7 +260,7 @@ export default function AboutPage() {
         <div className="bg-gray-50 rounded-lg md:p-12 text-center">
           <h2 className="text-4xl font-bold text-primary-blue mb-4 font-heading">READY TO WORK WITH US?</h2>
           <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-            Partner with JAI Steel Works for your next steel construction or fabrication project. We're ready to bring your vision to life.
+            Partner with JAI Steel Consultation for your next steel construction or fabrication project. We're ready to bring your vision to life.
           </p>
           <div className="flex justify-center gap-1 w-full md:w-auto">
             <button 
