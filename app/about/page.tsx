@@ -67,7 +67,7 @@ export default function AboutPage() {
             <div className="space-y-8">
               <div className="flex items-start">
                 <div className="bg-primary-yellow text-primary-blue rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-4 flex-shrink-0">
-                  7+
+                  20+
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-2">Years of Excellence</h3>

@@ -140,7 +140,7 @@ const jsonLd = {
       description:
         "JAI Steel Works & Management Ltd. is a forward-thinking engineering, steel-construction, and project-management company based in Abuja, Nigeria. We specialize in structural steel works, metal fabrication, welding services, consultancy, and turnkey project execution.",
       url: "https://jaisteelworks.com",
-      telephone: "+2348012345678",
+      telephone: "+2348128558718",
       email: "jaisteelconstructionandmgtltd@gmail.com",
       foundingDate: "2017",
       logo: {

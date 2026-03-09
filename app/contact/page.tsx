@@ -74,8 +74,8 @@ export default function ContactPage() {
             </div>
             <h3 className="text-xl font-bold text-primary-blue mb-2">CALL US</h3>
             <p className="text-gray-600 mb-2">Monday - Friday: 8AM - 6PM</p>
-            <a href="tel:+2348012345678" className="text-primary-yellow font-bold hover:text-yellow-600">
-              +234 801 234 5678
+            <a href="tel:+2348128558718" className="text-primary-yellow font-bold hover:text-yellow-600">
+              +234 812 855 8718
             </a>
           </div>
 
@@ -279,7 +279,7 @@ export default function ContactPage() {
                   </svg>
                   <div>
                     <h4 className="font-bold text-primary-blue mb-1">Phone</h4>
-                    <a href="tel:+2348012345678" className="text-gray-600 hover:text-primary-blue">+234 801 234 5678</a>
+                    <a href="tel:+2348128558718" className="text-gray-600 hover:text-primary-blue">+234 812 855 8718</a>
                   </div>
                 </div>
 

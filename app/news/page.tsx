@@ -11,14 +11,14 @@ const news = [
     tag: "Company News",
     date: "February 2025",
     readTime: "3 min read",
-    title: "JAI Steel Works & Management Ltd. Expands Operations Across Abuja",
+    title: "JAI Steel Construction & Management Ltd. Expands Operations Across Abuja",
     excerpt:
-      "JAI Steel Works & Management Ltd. is proud to announce a significant expansion of its operations in Abuja, bringing enhanced steel construction and metal fabrication capabilities to a wider range of clients across the Federal Capital Territory and beyond.",
+      "JAI Steel Construction & Management Ltd. is proud to announce a significant expansion of its operations in Abuja, bringing enhanced steel construction and metal fabrication capabilities to a wider range of clients across the Federal Capital Territory and beyond.",
     body: [
       {
         type: "paragraph",
         content:
-          "JAI Steel Works & Management Ltd. is proud to announce a significant expansion of its operations in Abuja, Federal Capital Territory. This strategic growth marks a major milestone in our journey to become the leading steel construction and project-management company in Nigeria.",
+          "JAI Steel Construction & Management Ltd. is proud to announce a significant expansion of its operations in Abuja, Federal Capital Territory. This strategic growth marks a major milestone in our journey to become the leading steel construction and project-management company in Nigeria.",
       },
       {
         type: "heading",
@@ -33,7 +33,7 @@ const news = [
         type: "quote",
         content:
           "Our goal has always been to provide reliable, innovative, and cost-effective steel solutions. This expansion puts us in a stronger position to serve more clients without compromising the quality and precision we are known for.",
-        author: "Managing Director, JAI Steel Works & Management Ltd.",
+        author: "Managing Director, JAI Steel Construction & Management Ltd.",
       },
       {
         type: "heading",
@@ -52,11 +52,11 @@ const news = [
       {
         type: "paragraph",
         content:
-          "Whether you are planning a new industrial facility, need bespoke metal fabrication, or require professional project management support, JAI Steel Works is ready to deliver. Contact us today to discuss your project requirements and request a free quote.",
+          "Whether you are planning a new industrial facility, need bespoke metal fabrication, or require professional project management support, JAI Steel Construction is ready to deliver. Contact us today to discuss your project requirements and request a free quote.",
       },
     ],
     author: {
-      name: "JAI Steel Works Team",
+      name: "JAI Steel Construction Team",
       role: "Communications",
       initials: "JAI",
     },
@@ -360,13 +360,13 @@ export default function NewsPage() {
                 <div className="rounded-xl border border-gray-100 p-6 space-y-4">
                   <h3 className="text-lg font-bold text-primary-blue font-heading">CONTACT US</h3>
                   <a
-                    href="tel:+2348012345678"
+                    href="tel:+2348128558718"
                     className="flex items-center gap-3 text-sm text-gray-600 hover:text-primary-blue transition-colors"
                   >
                     <svg className="w-5 h-5 text-primary-yellow flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                     </svg>
-                    +234 801 234 5678
+                    +234 812 855 8718
                   </a>
                   <a
                     href="mailto:jaisteelconstructionandmgtltd@gmail.com"

@@ -22,6 +22,7 @@ const Wrapper = ({ children, isQuoteModalOpen, setIsQuoteModalOpen, page = "home
                     <span className="text-gray-900 font-medium capitalize">{page.split("_").join(" ")}</span>
                 </div>
             </div>}
+
             {children}
             <Footer />
 

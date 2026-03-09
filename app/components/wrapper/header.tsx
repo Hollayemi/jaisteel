@@ -41,13 +41,13 @@ const Header = ({ isQuoteModalOpen, page, setIsQuoteModalOpen }: {
 
                             {/* Phone */}
                             <a
-                                href="tel:+2348012345678"
+                                href="tel:+2348128558718"
                                 className="flex items-center gap-1.5 hover:text-primary-yellow transition-colors text-sm"
                             >
                                 <svg className="w-4 h-4 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                                 </svg>
-                                <span className="hidden md:inline">+234 801 234 5678</span>
+                                <span className="hidden md:inline">+234 812 855 8718</span>
                             </a>
                         </div>
 
@@ -77,7 +77,6 @@ const Header = ({ isQuoteModalOpen, page, setIsQuoteModalOpen }: {
                                 </svg>
 
                             </a>
-
                             {/* Instagram */}
                             <a
                                 href="https://www.instagram.com/jaisteel.mgt/"
@@ -94,27 +93,27 @@ const Header = ({ isQuoteModalOpen, page, setIsQuoteModalOpen }: {
                             {/* Excellence badge — hidden on small screens */}
                             <div className="hidden sm:flex bg-black text-primary-yellow px-3 py-1 rounded-full text-xs font-bold items-center gap-1 whitespace-nowrap">
                                 <span className="text-yellow-400">⭐⭐⭐</span>
-                                <span className="hidden md:inline">OVER 7 YEARS DELIVERING EXCELLENCE</span>
-                                <span className="md:hidden">7+ YRS EXCELLENCE</span>
+                                <span className="hidden md:inline">OVER 20 YEARS DELIVERING EXCELLENCE</span>
+                                <span className="md:hidden">20+ YRS EXCELLENCE</span>
                             </div>
                         </div>
                     </div>
 
                     {/* ── Main nav bar ── */}
                     <nav className="py-3">
-                        <div className="flex items-center justify-between gap-4">
+                        <div className="flex items-center justify-between gap-2 md:gap-4">
 
                             {/* Logo */}
                             <a href="/" className="flex items-center gap-2 flex-shrink-0">
-                                <div className="w-12 h-12 flex items-center justify-center rounded">
+                                <div className="w-6 sm:w-12 h-12 flex items-center justify-center rounded">
                                     <img
                                         src="/images/logoWhite.PNG"
                                         alt="JAI Steel Consultation Logo"
-                                        className="w-10 h-10 object-contain"
+                                        className="w-6 sm:w-10 h-10 object-contain"
                                     />
                                 </div>
                                 <div className="leading-tight">
-                                    <div className="text-base font-bold font-heading">JAI STEEL CONSTRUCTION</div>
+                                    <div className="text-xs sm:text-base font-bold font-heading">JAI STEEL CONSTRUCTION</div>
                                     <div className="text-xs text-primary-yellow">& MANAGEMENT LTD</div>
                                 </div>
                             </a>
@@ -199,13 +198,13 @@ const Header = ({ isQuoteModalOpen, page, setIsQuoteModalOpen }: {
                                             <span className="truncate">jaisteelconstructionandmgtltd@gmail.com</span>
                                         </a>
                                         <a
-                                            href="tel:+2348012345678"
+                                            href="tel:+2348128558718"
                                             className="flex items-center gap-2 text-sm hover:text-primary-yellow transition-colors"
                                         >
                                             <svg className="w-4 h-4 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                                                 <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                                             </svg>
-                                            +234 801 234 5678
+                                            +234 812 855 8718
                                         </a>
 
                                         {/* Social icons in mobile menu */}

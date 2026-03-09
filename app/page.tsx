@@ -33,7 +33,7 @@ export default function HomePage() {
               </h1>
 
               <p className="text-xl sm:text-md text-gray-100 leading-relaxed max-w-2xl font-light">
-                From concept to completion, we deliver <span className="text-primary-yellow font-semibold">world-class steel construction</span> that stands the test of time. Over 7 years of engineering excellence across Abuja and beyond.
+                From concept to completion, we deliver <span className="text-primary-yellow font-semibold">world-class steel construction</span> that stands the test of time. Over 20 years of engineering excellence across Abuja and beyond.
               </p>
 
               {/* Stat pills */}
