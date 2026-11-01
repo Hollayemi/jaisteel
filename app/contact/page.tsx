@@ -279,7 +279,7 @@ export default function ContactPage() {
                   </svg>
                   <div>
                     <h4 className="font-bold text-primary-blue mb-1">Phone</h4>
-                    <a href="tel:+2348128558718" className="text-gray-600 hover:text-primary-blue">+234 812 855 8718</a>
+                    <a href="tel:+2347089668355" className="text-gray-600 hover:text-primary-blue">+234 708 966 8355</a>
                   </div>
                 </div>
 
