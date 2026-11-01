@@ -75,7 +75,7 @@ export default function ContactPage() {
             <h3 className="text-xl font-bold text-primary-blue mb-2">CALL US</h3>
             <p className="text-gray-600 mb-2">Monday - Friday: 8AM - 6PM</p>
             <a href="tel:+2348128558718" className="text-primary-yellow font-bold hover:text-yellow-600">
-              +234 812 855 8718
+              +234 803 845 9539
             </a>
           </div>
 
